@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 480px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 25px rgba(201, 207, 214, 0.5);
+}
